@@ -1,1 +1,1 @@
-# mule-integration-test-20260401
+# mule-integration-test
