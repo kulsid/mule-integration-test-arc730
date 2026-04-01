@@ -1,1 +1,1 @@
-# mule-integration-test
+# mule-integration-testing
